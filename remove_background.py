@@ -3,9 +3,9 @@ import numpy as np
 from PIL import Image
 
 
-input_folder = './/'
-seg_folder = './polarity_test/input_seg/'
-output_folder = './LIF_rm_back/'
+input_folder = ''
+seg_folder = ''
+output_folder = ''
 
 
 for img_filename in os.listdir(input_folder):
