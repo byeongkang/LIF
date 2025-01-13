@@ -27,9 +27,9 @@ def paint_right_of_centroid_white_with_thickness(image, seg_image, values, thick
 values = [ 4, 5, 10, 12, 13]
 thickness = 3
 
-input_folder_path = './LIF_rm_back_polarity/'
-segmentation_folder_path = './polarity_test/input_seg/'
-result_folder_path = './polarity_v2_tmp/'
+input_folder_path = ''
+segmentation_folder_path = ''
+result_folder_path = ''
 
 if not os.path.exists(result_folder_path):
     os.makedirs(result_folder_path)
