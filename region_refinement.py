@@ -39,10 +39,10 @@ mask_conditions = {
 }
 fill_values = [4, 5]
 
-input_folder_path = './polarity_test/input/'
-segmentation_folder_path = './polarity_test/input_seg/'
+input_folder_path = ''
+segmentation_folder_path = ''
 
-result_folder_path = './polarity_test/result_folder_boundary/'
+result_folder_path = ''
 
 if not os.path.exists(result_folder_path):
     os.makedirs(result_folder_path)
