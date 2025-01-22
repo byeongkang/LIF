@@ -56,3 +56,40 @@ Below is a high-level outline of the steps involved:
 
 ---
 
+## Installation & Requirements
+
+1. **Clone the repository**:
+
+2. **Install dependencies**:
+- Python 3.7+ recommended
+- [snntorch](https://github.com/jeshraghian/snntorch)
+- [PyTorch](https://pytorch.org/) (ensure compatibility with snntorch version)
+- [face-parsing.PyTorch](https://github.com/zllrunning/face-parsing.PyTorch)
+- Other Python packages (numpy, opencv-python, etc.)
+
+---
+
+## Citation & References
+
+If you use this repository or find it helpful, please consider citing:
+1. **Paper (Main)**:  
+   *"Cross-Domain RGB-to-Event Image Translation Using Spiking Neurons for Eye Detection"*
+
+2. **StyleFlow Method**:  
+   *"Event Camera-Based Pupil Localization: Facilitating Training With Event-Style Translation of RGB Faces"*
+
+3. **CelebA Dataset**:  
+   *"CelebFaces Attributes (CelebA) Dataset," [Link](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)*
+
+4. **face-parsing.PyTorch**:  
+   [https://github.com/zllrunning/face-parsing.PyTorch](https://github.com/zllrunning/face-parsing.PyTorch)
+
+5. **snntorch**:  
+   [https://github.com/jeshraghian/snntorch](https://github.com/jeshraghian/snntorch)
+
+---
+
+## License
+This project is released under the [MIT License](LICENSE). Feel free to modify and distribute as per the license terms.
+
+---
