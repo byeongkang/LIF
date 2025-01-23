@@ -3,7 +3,7 @@
 This repository provides **Synthetic Event Generation** code for the paper, "**Cross-Domain RGB-to-Event Image Translation Using Spiking Neurons for Eye Detection**." It demonstrates how to transform an Event-style version of the CelebA dataset through several steps involving spiking neuron models, background removal, and region refinement, ultimately generating a synthetic Event dataset ready for eye detection training.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/byeongkang/LIF/main/Fig.6_re.png" width="60%" alt="Example workflow image"/>
+  <img src="https://raw.githubusercontent.com/byeongkang/LIF/main/Fig.6_re.png" width="80%" alt="Example workflow image"/>
 </p>
 
 
